@@ -1,0 +1,35 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:chain"
+		},
+		{
+			"item": "minecraft:chain"
+		},
+		{
+			"item": "minecraft:chain"
+		},
+		{
+			"item": "minecraft:chain"
+		},
+		{
+			"item": "minecraft:chain"
+		},
+		{
+			"item": "minecraft:chain"
+		},
+		{
+			"item": "minecraft:chain"
+		},
+		{
+			"item": "minecraft:chain"
+		},
+		{
+			"item": "minecraft:arrow"
+		}
+	],
+	"result": {
+		"item": "minecraft:knowledge_book"
+	}
+}

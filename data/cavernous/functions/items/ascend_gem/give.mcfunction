@@ -1,0 +1,1 @@
+give @s ender_eye{Tags:["ascend_gem"],display:{Name:'[{"text":"Ascend Gem","italic":false}]',Lore:['[{"text":"Right click with this item to phase","italic":false}]','[{"text":"through blocks above your head","italic":false}]']},Enchantments:[{}]} 1
